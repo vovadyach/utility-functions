@@ -1,4 +1,4 @@
-function getRandom() {
+export default function getRandom() {
   var a = [
     { 'year'  : '2007'
     , 'min'   : 765
